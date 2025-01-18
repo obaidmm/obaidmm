@@ -4,7 +4,7 @@ Hey there! Thanks for stopping by. My name is **Obaid Mohiuddin**, and I’m a p
 
 ## 🚀 About Me  
 
-- 💻 **Full-Stack Developer** | Building modern web applications with .NET, and Java**  
+- 💻 **Full-Stack Developer** | Building modern web applications with .NET, and Java  
 - 🔭 **Currently Exploring:** Advanced **Cloud Computing, and AI-Powered Development**  
 - 🎓 **Education:** Passionate about continuous learning and mastering new technologies  
 - 🌍 **Portfolio:** [obaidmohiuddin.com](http://obaidmohiuddin.com)  
