@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile! 
 
-Hey there! Thanks for stopping by. My name is **Obaid Mohiuddin**, and I’m a passionate **Full-Stack Developer** based in the **Greater Toronto Area (GTA), Canada**. Here’s a little about me:
+Hey there! Thanks for stopping by. My name is **Obaid Mohiuddin**, and I’m a passionate **Full-Stack Developer** based in the **Greater Toronto Area, Canada**. Here’s a little about me:
 
 ## 🚀 About Me  
 
